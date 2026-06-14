@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=GHEAT&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Security%20Analyst&descAlignY=60&descSize=18&descColor=00b4d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=240&section=header&text=GHEAT&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Systems%20Engineer%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Security%20Analyst&descAlignY=62&descSize=17&descColor=888888" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=80&lines=Quant+Dev+%40+Hedge+Fund+%7C+Summer+2025;AI+Agents+%7C+Agentic+OS+%7C+MCP+Tool+Creator;Pentesting+%7C+Bare-Metal+%7C+Full-Stack+Dev;Rust+%7C+Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Quant+Dev+%40+Hedge+Fund+%7C+Summer+2025;AI+Agents+%7C+Agentic+OS+%7C+MCP+Tool+Creator;Pentesting+%7C+Bare-Metal+%7C+Full-Stack+Dev;Rust+%7C+Python+%7C+TypeScript+%7C+C%2B%2B+%7C+Everything)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gheat1&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
-[![Website](https://img.shields.io/badge/gheat.net-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gheat.net)
-[![Email](https://img.shields.io/badge/gheatmc%40gmail.com-0077b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gheatmc@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Gheat1&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Website](https://img.shields.io/badge/gheat.net-000000?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://gheat.net)
+[![Email](https://img.shields.io/badge/gheatmc%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:gheatmc@gmail.com)
 
 </div>
 
@@ -46,44 +46,44 @@
 
 ### 💻 Languages
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp,cs,php,bash,html,css&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,rust,c,cpp,cs,php,bash,html,css&perline=11&theme=dark)](https://skillicons.dev)
 
 ### 🤖 AI / ML Stack
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00b4d8?style=flat-square)
-![VectorDB](https://img.shields.io/badge/Vector_DBs-High_Dimensional-0077b6?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI_Agents-48bfe3?style=flat-square)
-![Demucs](https://img.shields.io/badge/Demucs-Deep_Learning_Stem_Sep-00b4d8?style=flat-square)
-![CUDA](https://img.shields.io/badge/CUDA-Accelerated_Inference-76b900?style=flat-square&logo=nvidia&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Custom_Tool_Creation-0077b6?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-Pipeline_Engineering-48bfe3?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Fine_Tuning-00b4d8?style=flat-square)
-![XML](https://img.shields.io/badge/XML-Agent_Loops_(Ollama)-56cfe1?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-000000?style=flat-square&labelColor=111111)
+![VectorDB](https://img.shields.io/badge/Vector_DBs-High_Dimensional-111111?style=flat-square&labelColor=1a1a1a)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI_Agents-000000?style=flat-square&labelColor=111111)
+![Demucs](https://img.shields.io/badge/Demucs-Deep_Learning_Stem_Sep-111111?style=flat-square&labelColor=1a1a1a)
+![CUDA](https://img.shields.io/badge/CUDA-Accelerated_Inference-000000?style=flat-square&labelColor=111111&logo=nvidia&logoColor=ffffff)
+![MCP](https://img.shields.io/badge/MCP-Custom_Tool_Creation-111111?style=flat-square&labelColor=1a1a1a)
+![OCR](https://img.shields.io/badge/OCR-Pipeline_Engineering-000000?style=flat-square&labelColor=111111)
+![LLM](https://img.shields.io/badge/LLM-Fine_Tuning-111111?style=flat-square&labelColor=1a1a1a)
+![XML](https://img.shields.io/badge/XML-Agent_Loops_(Ollama)-000000?style=flat-square&labelColor=111111)
 
 ### 🔐 Security & Infrastructure
 
-[![Infra](https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,git&perline=5)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,git&perline=5&theme=dark)](https://skillicons.dev)
 
-![PenTest](https://img.shields.io/badge/Penetration_Testing-Vulnerability_Remediation-dc2f02?style=flat-square)
-![SQLi](https://img.shields.io/badge/SQL_Injection-Mitigation-e85d04?style=flat-square)
-![XSS](https://img.shields.io/badge/XSS-Structural_Defense-f48c06?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-Secret_Forgery_Prevention-e85d04?style=flat-square)
-![Tailscale](https://img.shields.io/badge/Tailscale-Mesh_Networking-00b4d8?style=flat-square)
-![Caddy](https://img.shields.io/badge/Caddy-Reverse_Proxy-0077b6?style=flat-square)
-![Arch](https://img.shields.io/badge/Arch_Linux-System_Administration-1793d1?style=flat-square&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-Linux-a81d33?style=flat-square&logo=debian&logoColor=white)
+![PenTest](https://img.shields.io/badge/Penetration_Testing-Vulnerability_Remediation-000000?style=flat-square&labelColor=111111)
+![SQLi](https://img.shields.io/badge/SQL_Injection-Mitigation-111111?style=flat-square&labelColor=1a1a1a)
+![XSS](https://img.shields.io/badge/XSS-Structural_Defense-000000?style=flat-square&labelColor=111111)
+![JWT](https://img.shields.io/badge/JWT-Secret_Forgery_Prevention-111111?style=flat-square&labelColor=1a1a1a)
+![Tailscale](https://img.shields.io/badge/Tailscale-Mesh_Networking-000000?style=flat-square&labelColor=111111)
+![Caddy](https://img.shields.io/badge/Caddy-Reverse_Proxy-111111?style=flat-square&labelColor=1a1a1a)
+![Arch](https://img.shields.io/badge/Arch_Linux-System_Administration-000000?style=flat-square&labelColor=111111&logo=arch-linux&logoColor=ffffff)
+![Debian](https://img.shields.io/badge/Debian-Linux-111111?style=flat-square&labelColor=1a1a1a&logo=debian&logoColor=ffffff)
 
 ### 🖥️ Full-Stack & Backend
 
-[![Stack](https://skillicons.dev/icons?i=react,nodejs,express,sqlite,mysql,postgres,tauri&perline=7)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,nodejs,express,sqlite,mysql,postgres,tauri&perline=7&theme=dark)](https://skillicons.dev)
 
 ### 🔩 Hardware & Systems Engineering
 
-![Rack](https://img.shields.io/badge/19"_Rack-Data_Center_Architecture-0077b6?style=flat-square)
-![BMS](https://img.shields.io/badge/Bare_Metal-Server_Provisioning-00b4d8?style=flat-square)
-![3D](https://img.shields.io/badge/3D_Printing-Additive_Manufacturing-56cfe1?style=flat-square)
-![HW](https://img.shields.io/badge/Hardware-Modding_%26_Engineering-48bfe3?style=flat-square)
-![L2L3](https://img.shields.io/badge/L2%2FL3-Network_Switching-0077b6?style=flat-square)
+![Rack](https://img.shields.io/badge/19"_Rack-Data_Center_Architecture-000000?style=flat-square&labelColor=111111)
+![BMS](https://img.shields.io/badge/Bare_Metal-Server_Provisioning-111111?style=flat-square&labelColor=1a1a1a)
+![3D](https://img.shields.io/badge/3D_Printing-Additive_Manufacturing-000000?style=flat-square&labelColor=111111)
+![HW](https://img.shields.io/badge/Hardware-Modding_%26_Engineering-111111?style=flat-square&labelColor=1a1a1a)
+![L2L3](https://img.shields.io/badge/L2%2FL3-Network_Switching-000000?style=flat-square&labelColor=111111)
 
 ---
 
@@ -91,12 +91,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gheat1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="195" />
-<img src="https://streak-stats.demolab.com?user=Gheat1&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=c9d1d9&sideNums=00b4d8&dates=888888" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gheat1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=888888&text_color=aaaaaa&include_all_commits=true&count_private=true&rank_icon=github" height="195" />
+<img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&sideNums=ffffff&dates=555555&stroke=333333" height="195" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gheat1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=12&card_width=700" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gheat1&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=12&card_width=700" />
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gheat1&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gheat1&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&bg_color=000000&color=ffffff&line=444444&point=ffffff&area=true&area_color=222222&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -172,6 +172,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
