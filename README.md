@@ -1,3 +1,5 @@
+<!-- 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=240&section=header&text=GHEAT&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Systems%20Engineer%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Security%20Analyst&descAlignY=62&descSize=17&descColor=888888" width="100%"/>
@@ -167,6 +169,7 @@
 ---
 
 <div align="center">
+-->
 
 **`< Built in the terminal. Deployed on bare metal. Secured from the ground up. />`**
 
