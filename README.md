@@ -2,34 +2,40 @@
 
 # ◐ gheat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=89B4FA&center=true&vCenter=true&width=620&lines=building+TUIs+that+feel+like+apps;systems+%40+SBSCanada;arch+%2B+hyprland%2C+riced+daily;ship+fast%2C+keep+it+pretty)](https://github.com/Gheat1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E8E8E8&center=true&vCenter=true&width=640&lines=systems+engineer+%2F+quantitative+developer;systems+%40+SBSCanada;arch+%2B+hyprland%2C+monochrome+rice;everything+gets+a+TUI)](https://github.com/Gheat1)
 
-[![gheat.net](https://img.shields.io/badge/gheat.net-1e1e2e?style=flat-square&logo=googlechrome&logoColor=89b4fa)](https://gheat.net)
-[![email](https://img.shields.io/badge/gheatmc%40gmail.com-1e1e2e?style=flat-square&logo=gmail&logoColor=f38ba8)](mailto:gheatmc@gmail.com)
-![views](https://komarev.com/ghpvc/?username=Gheat1&color=313244&style=flat-square&label=views)
+[![gheat.net](https://img.shields.io/badge/gheat.net-0d0d0d?style=flat-square&logo=googlechrome&logoColor=e8e8e8)](https://gheat.net)
+[![email](https://img.shields.io/badge/gheatmc%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=e8e8e8)](mailto:gheatmc@gmail.com)
+![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
 
 </div>
 
 ```text
-╭─ gheat · ~/github ───────────────────────────────────────────────────────────────────────╮
-│                                                                                          │
-│     gheat  ·  systems @ SBSCanada  ·  gheat.net                                          │
-│     arch + hyprland  ·  rices first, ships second  ·  everything gets a TUI              │
-│                                                                                          │
-│  ◑ shipping · the tui suite ─────────────────────────────────────────────────────────────│
-│   ◐ ltui        a fast, beautiful TUI for Linear                           python  ★ 18  │
-│   ◑ jtui        the same app, pointed at Jira                              python   ★ 2  │
-│   ◐ sctui       ...and at Shortcut                                         python   ★ 2  │
-│  ◈ ricekit     the design system underneath them all                      python   ★ 2  │
-│   ♪ NaviTui     animated Navidrome player, cover art included              python   ★ 3  │
-│                                                                                          │
-│  ○ also on the board ────────────────────────────────────────────────────────────────────│
-│   ● Anode       code editor with Claude Code + Gemini built in                 ts        │
-│   ● HyprMinimal a clean, monochrome Hyprland desktop                        shell        │
-│   ● void-watch  a game, because why not                                     godot        │
-│   ● gheat.net   the portfolio                                                  js        │
-│                                                                                          │
-╰──────────────────────────────────────────────────────────────────────────────────────────╯
+╭─ gheat · ~/profile ────────────────────────────────────────────────────────────────────────╮
+│                                                                                            │
+│     gheat  ·  systems engineer / quantitative developer  ·  gheat.net                      │
+│     systems @ SBSCanada  ·  prev. quant dev intern @ a hedge fund ('25)                    │
+│     arch + hyprland  ·  monochrome rice, colorful ideas  ·  everything gets a TUI          │
+│                                                                                            │
+│  ◑ shipping · the tui suite ───────────────────────────────────────────────────────────────│
+│   ◐ ltui         a fast, beautiful TUI for Linear                           python · ★ 18  │
+│   ◑ jtui         the same app, pointed at Jira                              python ·  ★ 2  │
+│   ◐ sctui        ...and at Shortcut                                         python ·  ★ 2  │
+│   ● ricekit      the design system underneath them all                      python ·  ★ 2  │
+│   ♪ NaviTui      animated Navidrome player, cover art included              python ·  ★ 3  │
+│                                                                                            │
+│  ● also on the board ──────────────────────────────────────────────────────────────────────│
+│   ● Anode        code editor with Claude Code + Gemini built in                typescript  │
+│   ● spaceships   live multiplayer 3D combat · gheat.net/spaceships              node + ws  │
+│   ● voidwatch    space exploration sim                                         c# / godot  │
+│   ● HyprMinimal  a clean, monochrome Hyprland desktop                               shell  │
+│                                                                                            │
+│  ○ in the lab ─────────────────────────────────────────────────────────────────────────────│
+│   ○ atlas        agentic desktop OS · local AI agent loop                    react + rust  │
+│   ○ wavly        DJ similarity engine · stem-split, ranks 1000+ tracks       torch + cuda  │
+│   ○ the rack     19" bare-metal DC at home · arch, tailscale, caddy              hardware  │
+│                                                                                            │
+╰────────────────────────────────────────────────────────────────────────────────────────────╯
   n new idea   s ship   t theme   r rice   ? help                        powered by ricekit
 ```
 
@@ -42,31 +48,56 @@
 [**ricekit**](https://github.com/Gheat1/ricekit) ·
 [**NaviTui**](https://github.com/Gheat1/NaviTui) ·
 [**Anode**](https://github.com/Gheat1/Anode-Code-Editor) ·
+[**spaceships**](https://gheat.net/spaceships) ·
 [**HyprMinimal**](https://github.com/Gheat1/HyprMinimal)
 
 <br>
 
-![python](https://img.shields.io/badge/python-1e1e2e?style=flat-square&logo=python&logoColor=89b4fa)
-![textual](https://img.shields.io/badge/textual-1e1e2e?style=flat-square&logo=powershell&logoColor=b4befe)
-![typescript](https://img.shields.io/badge/typescript-1e1e2e?style=flat-square&logo=typescript&logoColor=89b4fa)
-![rust](https://img.shields.io/badge/rust-1e1e2e?style=flat-square&logo=rust&logoColor=fab387)
-![godot](https://img.shields.io/badge/godot-1e1e2e?style=flat-square&logo=godotengine&logoColor=89b4fa)
-![arch](https://img.shields.io/badge/arch%20btw-1e1e2e?style=flat-square&logo=archlinux&logoColor=89b4fa)
-![hyprland](https://img.shields.io/badge/hyprland-1e1e2e?style=flat-square&logo=hyprland&logoColor=b4befe)
-![neovim](https://img.shields.io/badge/neovim-1e1e2e?style=flat-square&logo=neovim&logoColor=a6e3a1)
+`languages`
+
+![python](https://img.shields.io/badge/python-0d0d0d?style=flat-square&logo=python&logoColor=e8e8e8)
+![typescript](https://img.shields.io/badge/typescript-0d0d0d?style=flat-square&logo=typescript&logoColor=e8e8e8)
+![javascript](https://img.shields.io/badge/javascript-0d0d0d?style=flat-square&logo=javascript&logoColor=e8e8e8)
+![rust](https://img.shields.io/badge/rust-0d0d0d?style=flat-square&logo=rust&logoColor=e8e8e8)
+![c#](https://img.shields.io/badge/c%23-0d0d0d?style=flat-square&logo=dotnet&logoColor=e8e8e8)
+![c/c++](https://img.shields.io/badge/c%2Fc%2B%2B-0d0d0d?style=flat-square&logo=cplusplus&logoColor=e8e8e8)
+![php](https://img.shields.io/badge/php-0d0d0d?style=flat-square&logo=php&logoColor=e8e8e8)
+![sql](https://img.shields.io/badge/sql-0d0d0d?style=flat-square&logo=sqlite&logoColor=e8e8e8)
+![bash](https://img.shields.io/badge/bash-0d0d0d?style=flat-square&logo=gnubash&logoColor=e8e8e8)
+![html5](https://img.shields.io/badge/html5-0d0d0d?style=flat-square&logo=html5&logoColor=e8e8e8)
+![css3](https://img.shields.io/badge/css3-0d0d0d?style=flat-square&logo=css&logoColor=e8e8e8)
+
+`ai / ml`
+
+![rag](https://img.shields.io/badge/RAG-0d0d0d?style=flat-square&logo=databricks&logoColor=e8e8e8)
+![vector dbs](https://img.shields.io/badge/vector%20dbs-0d0d0d?style=flat-square&logo=milvus&logoColor=e8e8e8)
+![mcp tools](https://img.shields.io/badge/MCP%20tools-0d0d0d?style=flat-square&logo=anthropic&logoColor=e8e8e8)
+![ollama](https://img.shields.io/badge/local%20agents%20·%20ollama-0d0d0d?style=flat-square&logo=ollama&logoColor=e8e8e8)
+![pytorch](https://img.shields.io/badge/pytorch%20·%20cuda-0d0d0d?style=flat-square&logo=pytorch&logoColor=e8e8e8)
+![ocr](https://img.shields.io/badge/OCR%20pipelines-0d0d0d?style=flat-square&logo=googlelens&logoColor=e8e8e8)
+
+`security / infra`
+
+![pentesting](https://img.shields.io/badge/pentesting-0d0d0d?style=flat-square&logo=kalilinux&logoColor=e8e8e8)
+![arch](https://img.shields.io/badge/arch%20btw-0d0d0d?style=flat-square&logo=archlinux&logoColor=e8e8e8)
+![debian](https://img.shields.io/badge/debian-0d0d0d?style=flat-square&logo=debian&logoColor=e8e8e8)
+![docker](https://img.shields.io/badge/docker-0d0d0d?style=flat-square&logo=docker&logoColor=e8e8e8)
+![tailscale](https://img.shields.io/badge/tailscale%20mesh-0d0d0d?style=flat-square&logo=tailscale&logoColor=e8e8e8)
+![cloudflare](https://img.shields.io/badge/cloudflare%20tunnels-0d0d0d?style=flat-square&logo=cloudflare&logoColor=e8e8e8)
+![caddy](https://img.shields.io/badge/caddy-0d0d0d?style=flat-square&logo=caddy&logoColor=e8e8e8)
+![hyprland](https://img.shields.io/badge/hyprland-0d0d0d?style=flat-square&logo=hyprland&logoColor=e8e8e8)
+![bare metal](https://img.shields.io/badge/19%22%20rack%20·%20bare%20metal-0d0d0d?style=flat-square&logo=serverfault&logoColor=e8e8e8)
+![3d printing](https://img.shields.io/badge/3d%20printing-0d0d0d?style=flat-square&logo=prusa&logoColor=e8e8e8)
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gheat1&theme=tokyonight" height="180" alt="stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gheat1&theme=tokyonight" height="180" alt="languages"/>
+<img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=e8e8e8&fire=ffffff&currStreakNum=ffffff&currStreakLabel=a0a0a0&sideNums=e8e8e8&sideLabels=a0a0a0&dates=6c6c6c" height="170" alt="streak"/>
 
-<img src="https://streak-stats.demolab.com?user=Gheat1&theme=catppuccin-mocha&hide_border=true" height="170" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&bg_color=1e1e2e&color=a6adc8&line=89b4fa&point=f5c2e7&area=true&area_color=313244&hide_border=true&radius=8" width="94%" alt="contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&bg_color=0d0d0d&color=a0a0a0&line=e8e8e8&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=8" width="94%" alt="contribution graph"/>
 
 <br>
 <br>
 
-<sub>◐ this profile renders at 60fps in your imagination · themes: mocha / void / onyx / clear / system</sub>
+<sub>◐ monochrome by choice · the ideas bring their own color</sub>
 
 </div>
