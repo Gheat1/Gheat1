@@ -20,7 +20,7 @@
 │   ◐ ltui        a fast, beautiful TUI for Linear                           python  ★ 18  │
 │   ◑ jtui        the same app, pointed at Jira                              python   ★ 2  │
 │   ◐ sctui       ...and at Shortcut                                         python   ★ 2  │
-│   ◈ ricekit     the design system underneath them all                      python   ★ 2  │
+│  ◈ ricekit     the design system underneath them all                      python   ★ 2  │
 │   ♪ NaviTui     animated Navidrome player, cover art included              python   ★ 3  │
 │                                                                                          │
 │  ○ also on the board ────────────────────────────────────────────────────────────────────│
