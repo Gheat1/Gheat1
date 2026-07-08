@@ -10,34 +10,9 @@
 
 </div>
 
-```text
-╭─ gheat · ~/profile ────────────────────────────────────────────────────────────────────────╮
-│                                                                                            │
-│     gheat  ·  systems engineer / quantitative developer  ·  gheat.net                      │
-│     systems @ SBSCanada  ·  prev. quant dev intern @ a hedge fund ('25)                    │
-│     arch + hyprland  ·  monochrome rice, colorful ideas  ·  everything gets a TUI          │
-│                                                                                            │
-│  ◑ shipping · the tui suite ───────────────────────────────────────────────────────────────│
-│   ◐ ltui         a fast, beautiful TUI for Linear                           python · ★ 18  │
-│   ◑ jtui         the same app, pointed at Jira                              python ·  ★ 2  │
-│   ◐ sctui        ...and at Shortcut                                         python ·  ★ 2  │
-│   ● ricekit      the design system underneath them all                      python ·  ★ 2  │
-│   ♪ NaviTui      animated Navidrome player, cover art included              python ·  ★ 3  │
-│                                                                                            │
-│  ● also on the board ──────────────────────────────────────────────────────────────────────│
-│   ● Anode        code editor with Claude Code + Gemini built in                typescript  │
-│   ● spaceships   live multiplayer 3D combat · gheat.net/spaceships              node + ws  │
-│   ● voidwatch    space exploration sim                                         c# / godot  │
-│   ● HyprMinimal  a clean, monochrome Hyprland desktop                               shell  │
-│                                                                                            │
-│  ○ in the lab ─────────────────────────────────────────────────────────────────────────────│
-│   ○ atlas        agentic desktop OS · local AI agent loop                    react + rust  │
-│   ○ wavly        DJ similarity engine · stem-split, ranks 1000+ tracks       torch + cuda  │
-│   ○ the rack     19" bare-metal DC at home · arch, tailscale, caddy              hardware  │
-│                                                                                            │
-╰────────────────────────────────────────────────────────────────────────────────────────────╯
-  n new idea   s ship   t theme   r rice   ? help                        powered by ricekit
-```
+<div align="center">
+<img src="assets/tui.png" alt="gheat · ~/profile" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -91,14 +66,12 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=e8e8e8&fire=ffffff&currStreakNum=ffffff&currStreakLabel=a0a0a0&sideNums=e8e8e8&sideLabels=a0a0a0&dates=6c6c6c" height="170" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&bg_color=0d0d0d&color=a0a0a0&line=e8e8e8&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=8" width="94%" alt="contribution graph"/>
-
-<br>
-<br>
-
 <img src="https://ghchart.rshah.org/e8e8e8/Gheat1" width="94%" alt="contribution calendar"/>
+
+<br>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=e8e8e8&fire=ffffff&currStreakNum=ffffff&currStreakLabel=a0a0a0&sideNums=e8e8e8&sideLabels=a0a0a0&dates=6c6c6c" height="170" alt="streak"/>
 
 <br>
 <br>
