@@ -98,6 +98,16 @@
 <br>
 <br>
 
+<img src="https://ghchart.rshah.org/e8e8e8/Gheat1" width="94%" alt="contribution calendar"/>
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/Gheat1/Gheat1/output/snake.svg" width="94%" alt="snake eating the contribution calendar"/>
+
+<br>
+<br>
+
 <sub>◐ monochrome by choice · the ideas bring their own color</sub>
 
 </div>
