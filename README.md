@@ -8,6 +8,8 @@
 [![email](https://img.shields.io/badge/gheatmc%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=e8e8e8)](mailto:gheatmc@gmail.com)
 ![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
 
+<img src="https://raw.githubusercontent.com/Gheat1/Gheat1/output/snake.svg" width="96%" alt="snake eating the contribution calendar"/>
+
 </div>
 
 <div align="center">
@@ -66,17 +68,8 @@
 
 <br>
 
-<img src="https://ghchart.rshah.org/e8e8e8/Gheat1" width="94%" alt="contribution calendar"/>
-
-<br>
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=e8e8e8&fire=ffffff&currStreakNum=ffffff&currStreakLabel=a0a0a0&sideNums=e8e8e8&sideLabels=a0a0a0&dates=6c6c6c" height="170" alt="streak"/>
 
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/Gheat1/Gheat1/output/snake.svg" width="94%" alt="snake eating the contribution calendar"/>
 
 <br>
 <br>
