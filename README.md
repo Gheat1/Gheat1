@@ -19,9 +19,9 @@
 <div align="center">
 
 **open the board:**
-[**ltui**](https://github.com/Gheat1/ltui) ·
-[**jtui**](https://github.com/Gheat1/jtui) ·
-[**sctui**](https://github.com/Gheat1/sctui) ·
+[**ltui**](https://github.com/runpantheon/ltui/tree/main/ltui) ·
+[**jtui**](https://github.com/runpantheon/ltui/tree/main/jtui) ·
+[**sctui**](https://github.com/runpantheon/ltui/tree/main/sctui) ·
 [**ricekit**](https://github.com/Gheat1/ricekit) ·
 [**NaviTui**](https://github.com/Gheat1/NaviTui) ·
 [**Anode**](https://github.com/Gheat1/Anode-Code-Editor) ·
