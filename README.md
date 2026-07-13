@@ -2,8 +2,6 @@
 
 # ◐ gheat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=E8E8E8&center=true&vCenter=true&width=640&lines=systems+engineer+%2F+quantitative+developer;systems+%40+SBSCanada;arch+%2B+hyprland%2C+monochrome+rice;everything+gets+a+TUI)](https://github.com/Gheat1)
-
 [![gheat.net](https://img.shields.io/badge/gheat.net-0d0d0d?style=flat-square&logo=googlechrome&logoColor=e8e8e8)](https://gheat.net)
 [![email](https://img.shields.io/badge/help%40gheat.net-0d0d0d?style=flat-square&logo=gmail&logoColor=e8e8e8)](mailto:help@gheat.net)
 ![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
