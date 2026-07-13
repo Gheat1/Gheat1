@@ -5,7 +5,6 @@
 [![gheat.net](https://img.shields.io/badge/gheat.net-0d0d0d?style=flat-square&logo=googlechrome&logoColor=e8e8e8)](https://gheat.net)
 [![email](https://img.shields.io/badge/help%40gheat.net-0d0d0d?style=flat-square&logo=gmail&logoColor=e8e8e8)](mailto:help@gheat.net)
 ![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
-
 <img src="https://raw.githubusercontent.com/Gheat1/Gheat1/output/snake.svg" width="96%" alt="snake eating the contribution calendar"/>
 
 </div>
