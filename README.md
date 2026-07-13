@@ -27,29 +27,20 @@
 
 <br>
 
-`languages`
-
-<img src="https://cdn.simpleicons.org/python/e8e8e8" height="30" alt="python" title="python"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/e8e8e8" height="30" alt="typescript" title="typescript"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/e8e8e8" height="30" alt="javascript" title="javascript"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/rust/e8e8e8" height="30" alt="rust" title="rust"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dotnet/e8e8e8" height="30" alt="c#" title="c#"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/e8e8e8" height="30" alt="c/c++" title="c/c++"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/e8e8e8" height="30" alt="php" title="php"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/e8e8e8" height="30" alt="sql" title="sql"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash/e8e8e8" height="30" alt="bash" title="bash"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/e8e8e8" height="30" alt="html5" title="html5"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/e8e8e8" height="30" alt="css" title="css"/>
-
-<sub>python · typescript · javascript · rust · c# · c/c++ · php · sql · bash · html · css</sub>
-
-<br>
-
-`ai / ml`
-
-<img src="https://cdn.simpleicons.org/langchain/e8e8e8" height="30" alt="rag" title="RAG"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/milvus/e8e8e8" height="30" alt="vector dbs" title="vector dbs"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/modelcontextprotocol/e8e8e8" height="30" alt="mcp tools" title="MCP tools"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ollama/e8e8e8" height="30" alt="ollama" title="local agents · ollama"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/e8e8e8" height="30" alt="pytorch" title="pytorch"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nvidia/e8e8e8" height="30" alt="cuda" title="cuda"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/e8e8e8" height="30" alt="ocr" title="OCR pipelines"/>
-
-<sub>rag · vector dbs · mcp tools · local agents · pytorch · cuda · ocr pipelines</sub>
-
-<br>
-
-`security / infra`
-
-<img src="https://cdn.simpleicons.org/kalilinux/e8e8e8" height="30" alt="pentesting" title="pentesting"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/archlinux/e8e8e8" height="30" alt="arch" title="arch btw"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/debian/e8e8e8" height="30" alt="debian" title="debian"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/e8e8e8" height="30" alt="docker" title="docker"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailscale/e8e8e8" height="30" alt="tailscale" title="tailscale mesh"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/e8e8e8" height="30" alt="cloudflare" title="cloudflare tunnels"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/caddy/e8e8e8" height="30" alt="caddy" title="caddy"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/hyprland/e8e8e8" height="30" alt="hyprland" title="hyprland"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/serverfault/e8e8e8" height="30" alt="bare metal" title="19&quot; rack · bare metal"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/printables/e8e8e8" height="30" alt="3d printing" title="3d printing"/>
-
-<sub>pentesting · arch btw · debian · docker · tailscale mesh · cloudflare tunnels · caddy · hyprland · 19" rack · 3d printing</sub>
-
-<br>
+<table>
+<tr>
+<td align="right"><code>languages</code></td>
+<td><img src="https://cdn.simpleicons.org/python/e8e8e8" height="20" alt="python" title="python"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/e8e8e8" height="20" alt="typescript" title="typescript"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/e8e8e8" height="20" alt="javascript" title="javascript"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/rust/e8e8e8" height="20" alt="rust" title="rust"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dotnet/e8e8e8" height="20" alt="c#" title="c#"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/e8e8e8" height="20" alt="c/c++" title="c/c++"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/e8e8e8" height="20" alt="php" title="php"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/e8e8e8" height="20" alt="sql" title="sql"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash/e8e8e8" height="20" alt="bash" title="bash"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/e8e8e8" height="20" alt="html5" title="html5"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/e8e8e8" height="20" alt="css" title="css"/></td>
+</tr>
+<tr>
+<td align="right"><code>ai / ml</code></td>
+<td><img src="https://cdn.simpleicons.org/langchain/e8e8e8" height="20" alt="rag" title="RAG"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/milvus/e8e8e8" height="20" alt="vector dbs" title="vector dbs"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/modelcontextprotocol/e8e8e8" height="20" alt="mcp tools" title="MCP tools"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ollama/e8e8e8" height="20" alt="ollama" title="local agents · ollama"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/e8e8e8" height="20" alt="pytorch" title="pytorch"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nvidia/e8e8e8" height="20" alt="cuda" title="cuda"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/e8e8e8" height="20" alt="ocr" title="OCR pipelines"/></td>
+</tr>
+<tr>
+<td align="right"><code>security / infra</code></td>
+<td><img src="https://cdn.simpleicons.org/kalilinux/e8e8e8" height="20" alt="pentesting" title="pentesting"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/archlinux/e8e8e8" height="20" alt="arch" title="arch btw"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/debian/e8e8e8" height="20" alt="debian" title="debian"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/e8e8e8" height="20" alt="docker" title="docker"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailscale/e8e8e8" height="20" alt="tailscale" title="tailscale mesh"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/e8e8e8" height="20" alt="cloudflare" title="cloudflare tunnels"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/caddy/e8e8e8" height="20" alt="caddy" title="caddy"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/hyprland/e8e8e8" height="20" alt="hyprland" title="hyprland"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/serverfault/e8e8e8" height="20" alt="bare metal" title="19&quot; rack · bare metal"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/printables/e8e8e8" height="20" alt="3d printing" title="3d printing"/></td>
+</tr>
+</table>
 
 `stats`
 
