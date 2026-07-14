@@ -42,15 +42,6 @@
 </tr>
 </table>
 
-`stats`
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gheat1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d0d&title_color=e8e8e8&icon_color=e8e8e8&text_color=a0a0a0&border_color=1a1a1a" height="170" alt="stats"/>
-<img src="https://streak-stats.demolab.com?user=Gheat1&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=e8e8e8&fire=ffffff&currStreakNum=ffffff&currStreakLabel=a0a0a0&sideNums=e8e8e8&sideLabels=a0a0a0&dates=6c6c6c" height="170" alt="streak"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gheat1&layout=compact&hide_border=true&langs_count=10&bg_color=0d0d0d&title_color=e8e8e8&text_color=a0a0a0&border_color=1a1a1a&card_width=482" alt="top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gheat1&custom_title=contribution%20activity&bg_color=0d0d0d&color=e8e8e8&line=3a3a3a&point=ffffff&area=true&area_color=1a1a1a&title_color=e8e8e8&hide_border=true" width="96%" alt="contribution activity"/>
-
 <br>
 
 <sub>◐ monochrome by choice · the ideas bring their own color</sub>
