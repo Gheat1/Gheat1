@@ -20,9 +20,9 @@
    arch + hyprland  ·  monochrome rice, colorful ideas  ·  everything gets a TUI
 
  ◐  the tui suite ──────────────────────────────────────────────────────────
-   ▸ tuistore    the TUI app store · one-key install          python · ★ 185
-   ◑ ltui        a fast, beautiful TUI for Linear              python · ★ 80
-   ♪ NaviTui     animated Navidrome player · cover art         python · ★ 20
+   ▸ tuistore    the TUI app store · one-key install          python · ★ 228
+   ◑ ltui        a fast, beautiful TUI for Linear              python · ★ 82
+   ♪ NaviTui     animated Navidrome player · cover art         python · ★ 23
    ◈ ricekit     the design system under them all              python · ★ 13
    · ltui also ships for Jira (jtui) and Shortcut (sctui)
 
