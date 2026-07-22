@@ -23,7 +23,7 @@
    ▸ tuistore    the TUI app store · one-key install          python · ★ 253
    ◑ ltui        a fast, beautiful TUI for Linear              python · ★ 84
    ♪ NaviTui     animated Navidrome player · cover art         python · ★ 25
-   ◈ ricekit     the design system under them all              python · ★ 13
+   ◈ ricekit     the design system under them all              python · ★ 15
    · ltui also ships for Jira (jtui) and Shortcut (sctui)
 
  ●  also on the board ──────────────────────────────────────────────────────
