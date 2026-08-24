@@ -25,6 +25,6 @@
 ━━━━━━━━━━━━━━━━━━▼━━━━━━━━━━━━━━━━━━
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gheat1&show_icons=true&hide=issues,prs&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=eeede9&text_color=c9c9c9&icon_color=1db954)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gheat1&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=1db954&fire=1db954&currStreakLabel=eeede9)
+![Streak Stats](https://streak-stats.demolab.com/?user=Gheat1&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=1db954&fire=1db954&currStreakLabel=eeede9)
 
 </div>
