@@ -2,9 +2,9 @@
 
 # gheat
 
-**Software engineer.** Full-stack · systems · security · AI
+**Software engineer.** Full Stack, Systems, Devops, infra
 
-Software Engineer @ [Pantheon Labs](https://pantheon.run) · self-hosted bare-metal rack
+Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Developer
 
 [![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gheat1)
