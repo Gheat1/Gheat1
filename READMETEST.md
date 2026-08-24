@@ -10,10 +10,7 @@ Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Develop
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gheat1)
 
 </div>
-
----
-
-### stack
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -25,10 +22,11 @@ Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Develop
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
+</div>
 
 ---
 
-### featured projects
+### projects
 
 | | |
 |---|---|
@@ -40,11 +38,3 @@ Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Develop
 | 🚀 **[Spaceships](https://github.com/Iam1an/Spaceships)** | Real-time multiplayer 3D space combat |
 
 See everything at **[gheat.net](https://gheat.net)**.
-
----
-
-<div align="center">
-
-Open to work on full-stack, systems, AI infrastructure, and security.
-
-</div>
