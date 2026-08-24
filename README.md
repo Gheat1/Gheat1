@@ -2,7 +2,7 @@
 
 ▬▬ι══════ﺤ
 
-## *gheat*
+━━━━━━━━━━━━━━━━━━━ **gheat** ━━━━━━━━━━━━━━━━━━━
 
 **|** **Full Stack SWE @** [Pantheon Labs](https://pantheon.run)  **|**  **Open Source Developer**  **|**  **CEO** *&* **Lead SWE @** [Kozyn](https://kozyn.net) **|**
 
