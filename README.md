@@ -13,8 +13,6 @@
 [![Pantheon](https://img.shields.io/badge/Pantheon.run-eeede9?style=for-the-badge&logoColor=black)](https://pantheon.run)
 [![Kozyn](https://img.shields.io/badge/kozyn.net-1db954?style=for-the-badge&logoColor=white)](https://kozyn.net)
 
-━━━━━━━━━━━━━━━━━━▼━━━━━━━━━━━━━━━━━━
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,5 +22,9 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
+━━━━━━━━━━━━━━━━━━▼━━━━━━━━━━━━━━━━━━
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gheat1&show_icons=true&hide=issues,prs&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=eeede9&text_color=c9c9c9&icon_color=1db954)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gheat1&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=1db954&fire=1db954&currStreakLabel=eeede9)
 
 </div>
