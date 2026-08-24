@@ -6,7 +6,7 @@
 
 **Software engineer.** Full Stack, Systems, Devops, Infra
 
-Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Developer
+**|** **Full Stack SWE @** [Pantheon Labs](https://pantheon.run)  **|**  **Open Source Developer**  **|**  **CEO** *&* **Lead SWE @** [Kozyn](https://kozyn.net) **|**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gheat1)
 [![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
