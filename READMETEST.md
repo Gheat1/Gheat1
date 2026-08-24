@@ -1,16 +1,19 @@
 <div align="center">
 
-# gheat
+▬▬ι══════ﺤ
 
-**Software engineer.** Full Stack, Systems, Devops, infra
+## *gheat*
+
+**Software engineer.** Full Stack, Systems, Devops, Infra
 
 Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Developer
 
-[![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gheat1)
+[![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
+[![Pantheon](https://img.shields.io/badge/Pantheon.run-eeede9?style=for-the-badge&logoColor=black)](https://pantheon.run)
+[![Kozyn](https://img.shields.io/badge/kozyn.net-1db954?style=for-the-badge&logoColor=white)](https://kozyn.net)
 
-</div>
-<div align="center">
+━━━━━━━━━━━━━━━━━━▼━━━━━━━━━━━━━━━━━━
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -20,21 +23,6 @@ Software Engineer @ [Pantheon Labs](https://pantheon.run) · Open Source Develop
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
+![views](https://komarev.com/ghpvc/?username=Gheat1&color=1a1a1a&style=flat-square&label=views)
+
 </div>
-
----
-
-### projects
-
-| | |
-|---|---|
-| 🎧 **[Kozyn](https://kozyn.net)** | DJ tool that ranks your library by what actually mixes, not just similar songs |
-| 🖥️ **[tuistore](https://github.com/Gheat1/tuistore)** | The TUI app store. Fuzzy-search and one-key-install terminal apps |
-| 📋 **[ltui](https://github.com/runpantheon/ltui)** | A fast, beautiful TUI for Linear |
-| ⚡ **[Anode](https://github.com/Gheat1/Anode-Code-Editor)** | A Claude-native code editor, built on Tauri |
-| 🌐 **[Gheat.net](https://github.com/Gheat1/Gheat.net)** | My home base — a haunted 3D CRT that boots into Windows 95 |
-| 🚀 **[Spaceships](https://github.com/Iam1an/Spaceships)** | Real-time multiplayer 3D space combat |
-
-See everything at **[gheat.net](https://gheat.net)**.
