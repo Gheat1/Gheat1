@@ -21,5 +21,6 @@
 [![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
 [![Pantheon](https://img.shields.io/badge/Pantheon.run-eeede9?style=for-the-badge&logoColor=black)](https://pantheon.run)
 [![Kozyn](https://img.shields.io/badge/kozyn.net-1db954?style=for-the-badge&logoColor=white)](https://kozyn.net)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gheat1&theme=dark)](https://git.io/streak-stats)
 </div>
