@@ -19,6 +19,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gheat1)
 [![Website](https://img.shields.io/badge/gheat.net-eeede9?style=for-the-badge&logoColor=black)](https://gheat.net)
+[![Teralis](https://img.shields.io/badge/teralis.dev-eeede9?style=for-the-badge&logoColor=black)]([https://gheat.net](https://teralis.dev))
 [![Pantheon](https://img.shields.io/badge/Pantheon.run-eeede9?style=for-the-badge&logoColor=black)](https://pantheon.run)
 [![Kozyn](https://img.shields.io/badge/kozyn.net-1db954?style=for-the-badge&logoColor=white)](https://kozyn.net)
 
