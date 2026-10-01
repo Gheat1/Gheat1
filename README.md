@@ -36,5 +36,4 @@ devops · IT · server management · networking · bare-metal rack
 <a href="https://teralis.dev">teralis.dev</a> &nbsp;·&nbsp;
 <a href="mailto:contact@gheat.net">contact</a>
 </sub>
-
 </div>
