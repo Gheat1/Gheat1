@@ -1,5 +1,5 @@
 <div align="center">
-<sub>full-stack swe @ <a href="https://pantheon.run">pantheon labs</a> &nbsp;·&nbsp; lead swe @ <a href="https://kozyn.net">kozyn</a> &nbsp;·&nbsp; founder & CEO @ <a href="https://teralis.dev">teralis</a></sub>
+<sub>full-stack swe @ <a href="https://pantheon.run">pantheon</a> &nbsp;·&nbsp; lead swe @ <a href="https://kozyn.net">kozyn</a> &nbsp;·&nbsp; founder & CEO @ <a href="https://teralis.dev">teralis</a></sub>
 <br>
 
 enterprise software · data pipelines · machine learning · OCR<br>
